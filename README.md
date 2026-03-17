@@ -32,7 +32,7 @@
 ## 🧠 About Me
 
 ```ts
-const sonal = {
+const sonalkumar = {
   role        : "Full Stack Developer",
   experience  : "8+ months",
   location    : "Nallasopara East, Mumbai 📍",
