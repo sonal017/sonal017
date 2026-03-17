@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Visitor Counter + Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=sonalsinghraj123&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=sonal017&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
 &nbsp;
 <a href="mailto:sonalsinghraj123@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -82,12 +82,12 @@ const sonal = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sonalsinghraj123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sonalsinghraj123&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sonal017&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sonal017&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalsinghraj123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonal017&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
@@ -97,7 +97,7 @@ const sonal = {
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sonalsinghraj123&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sonal017&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -119,10 +119,10 @@ const sonal = {
 <div align="center">
 
 <a href="#">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sonalsinghraj123&repo=stack-overflow-clone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sonal017&repo=stack-overflow-clone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa" />
 </a>
 <a href="#">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sonalsinghraj123&repo=2d-rpg-game&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sonal017&repo=2d-rpg-game&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa" />
 </a>
 
 </div>
@@ -141,7 +141,7 @@ const sonal = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sonalsinghraj123&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sonal017&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true" />
 
 </div>
 
@@ -152,9 +152,9 @@ const sonal = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sonalsinghraj123/sonalsinghraj123/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sonalsinghraj123/sonalsinghraj123/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sonalsinghraj123/sonalsinghraj123/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sonal017/sonal017/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sonal017/sonal017/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sonal017/sonal017/output/github-snake.svg" />
 </picture>
 
 </div>
