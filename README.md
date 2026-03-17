@@ -118,7 +118,9 @@ const sonal = {
 
 <div align="center">
 
-[![Stack Overflow Clone](https://github-readme-stats.vercel.app/api/pin/?username=sonal017&repo=YOUR_EXACT_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/sonal017/codequest)
+<a href="https://github.com/sonal017/codequest">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sonal017&repo=codequest&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa" />
+</a>
 
 </div>
 
