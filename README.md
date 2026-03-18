@@ -82,7 +82,7 @@ const sonalkumar = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sonal017&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" src="https://github-stats-alpha.vercel.app/api?username=sonal017&cc=0d1117&tc=a78bfa&ic=f472b6&bc=0d1117" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sonal017&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/>
@@ -97,7 +97,7 @@ const sonalkumar = {
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sonal017&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-trophies.vercel.app/?username=sonal017&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4" />
 
 </div>
 
